@@ -1,0 +1,19 @@
+{
+  "obs_window": [
+    "2017-01-01",
+    "2018-01-01"
+  ],
+  "holdout_window": [
+    "2018-01-01",
+    "2018-07-01"
+  ],
+  "customers_scored": 42136,
+  "clv_median": 1.509267887791503,
+  "churn_median": 0.0,
+  "spearman_pred_clv_vs_holdout_revenue": 0.021759957851758945,
+  "auc_p_alive_vs_bought_in_holdout": 0.46921577317039287,
+  "share_bought_in_holdout": 0.01276817922916271,
+  "share_repeat_buyers": 0.016850199354471237,
+  "auc_p_alive_repeat_buyers": 0.6754883090960936,
+  "share_p_alive_equal_one": 0.9831498006455288
+}
